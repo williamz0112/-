@@ -5,6 +5,6 @@
 * 课后练习C-1，C-2可以实现，C-3、C-4、C-5的输出表格部分还需要学习,  
 * 听课后感觉数据挖掘是一项非常实用以及厉害的技能，得好好学习"  
 ## 以下是改动的截图
-![改动1](week02/img/change01.png)
-![改动2](week02/img/change02.png)
-![改动3](week02/img/change03.png)
+![改动1](web-mining/week02/img/change01.png)
+![改动2](web-mining/week02/img/change02.png)
+![改动3](web-mining/week02/img/change03.png)
